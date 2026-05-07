@@ -1,0 +1,14 @@
+{
+  "min-console-version": "1.0.0",
+
+  "admins": [
+    {
+      "name": "IGOTMUTED",
+      "user-id": "CFFB9B84E85DAAFE"
+    }
+  ],
+
+  "super-admins": [
+    "YOUR_USER_ID"
+  ]
+}
