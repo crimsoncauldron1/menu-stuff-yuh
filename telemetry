@@ -1,0 +1,4 @@
+{
+  "enabled": false,
+  "message": "GitHub static hosting does not support telemetry POST requests."
+}
