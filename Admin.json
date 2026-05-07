@@ -1,0 +1,18 @@
+{
+  "admins": [
+    {
+      "name": "IGOTMUTED",
+      "user-id": "CFFB9B84E85DAAFE",
+      "rank": "owner",
+      "permissions": [
+        "all"
+      ]
+    }
+  ],
+
+  "super-admins": [
+    "CFFB9B84E85DAAFE"
+  ],
+
+  "moderators": []
+}
